@@ -10,7 +10,8 @@ Hefei Mei<sup>\*</sup>, Hangzhou He<sup>\*</sup>, Haiyi Qiu<sup>\*</sup>, Longro
 
 ## 📖 Abstract
 
-Recent advances in image and video generation have greatly improved visual quality and controllability, yet real-world creative tasks often require more than a single model call, particularly in long-form and multi-stage creation. They involve planning, tool selection, state management, evaluation, and iterative revision. We study these systems under the paradigm of agentic visual creation, where language or multimodal agents coordinate generative models, editing tools, executable representations, and creative software throughout the production process. We organize existing work into four categories: visual generation, visual editing, visual composition, and visual programming. Within each category, we further organize representative works according to task-specific dimensions and agentic mechanisms. We also review emerging datasets and evaluation methods that extend beyond output quality to cross-shot consistency, cinematic and audiovisual coherence, and actionable feedback. Finally, we discuss key challenges in agent training, state management, evaluation, and interactive creation, and outline future directions toward more reliable, controllable, and adaptive visual production systems.
+Recent advances in image and video generation have improved visual quality and controllability, yet multi-stage creative tasks still require planning, coordination, and revision. Agentic visual creation plays a crucial role in bringing visual generation models into real-world creative workflows by using language or multimodal agents to coordinate generative models, editing tools, and creative software. This survey provides a structured overview to help researchers quickly understand the field, its representative approaches, and their connections. We organize existing work into four categories based on the agent’s main role in production: visual generation, visual editing, visual composition, and visual programming. Within each category, we compare how agents plan, use tools, maintain memory, incorporate feedback, and collaborate. We also review benchmark design, training data, and evaluation methods, with attention to feedback that supports revision. Finally, we discuss current limitations and future directions
+toward more reliable and interactive visual creation systems. 
 
 [![Overview of agentic visual creation research](images/unified_overview2.png)](images/unified_overview2.pdf)
 
@@ -31,8 +32,6 @@ Recent advances in image and video generation have greatly improved visual quali
 - [📊 Data and Evaluation](#data-and-evaluation)
   - [🖼️ Image Data and Evaluation](#image-data-and-evaluation)
   - [🎬 Video Data and Evaluation](#video-data-and-evaluation)
-
-> **Index convention.** `Published` records the first publicly available month of each paper, based on its arXiv v1 record or official proceedings record.
 
 <a id="agentic-visual-generation"></a>
 ## 🎨 Agentic Visual Generation
