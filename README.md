@@ -4,7 +4,7 @@
 
 Hefei Mei<sup>\*</sup>, Hangzhou He<sup>\*</sup>, Haiyi Qiu<sup>\*</sup>, Longrong Yang<sup>\*</sup>, Lunhao Duan<sup>\*</sup>, Shanshan Zhao<sup>†</sup>, Pengxin Zhan, Qing-Guo Chen, Zhao Xu, Weihua Luo
 
-**A curated paper list for agentic visual creation**
+**A curated paper list for agentic visual creation** ｜ <a href="https://www.preprints.org/manuscript/202609.0682"><strong>Survey</strong></a>
 
 </div>
 
@@ -373,3 +373,27 @@ toward more reliable and interactive visual creation systems.
 | UniVBench: Towards Unified Evaluation for Video Foundation Models | 2026-02 | arXiv | [PDF](https://arxiv.org/pdf/2602.21835) |
 | ViStoryBench: Comprehensive Benchmark Suite for Story Visualization | 2025-05 | CVPR 2026 | [PDF](https://arxiv.org/pdf/2505.24862) |
 | T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation | 2024-07 | CVPR 2025 | [PDF](https://arxiv.org/pdf/2407.14505) |
+
+
+## Citation
+
+If you find this survey useful for your research, please consider citing:
+
+```bibtex
+@misc{mei2026beyond,
+  title        = {{Beyond Visual Generation: Frontiers, Challenges, and Future Directions in Agentic Visual Creation}},
+  author       = {Mei, Hefei and
+                  He, Hangzhou and
+                  Qiu, Haiyi and
+                  Yang, Longrong and
+                  Duan, Lunhao and
+                  Zhao, Shanshan and
+                  Zhan, Pengxin and
+                  Chen, Qing-Guo and
+                  Xu, Zhao and
+                  Luo, Weihua},
+  year         = {2026},
+  month        = sep,
+  url          = {https://www.preprints.org/manuscript/202609.0682}
+}
+```
