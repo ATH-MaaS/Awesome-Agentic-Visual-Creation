@@ -256,6 +256,9 @@ toward more reliable and interactive visual creation systems.
 
 <a id="agentic-visual-composition"></a>
 ## 🧩 Agentic Visual Composition
+| Paper Title | Published | Venue | Link |
+| --- | --- | --- | --- |
+| AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation | 2026-09 | arXiv | [PDF](https://arxiv.org/pdf/2609.35530) |
 
 <a id="graphic-and-document-composition"></a>
 ### 📐 Graphic and Document Composition
